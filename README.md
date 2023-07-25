@@ -1,6 +1,7 @@
 # Movies Reviews Frontend
 
-This is a frontend for the movies backend
+This is a frontend for the movies backend.
+This project aims to learn more about the React framework.
 
 ## Prerequisites
 
